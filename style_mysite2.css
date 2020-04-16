@@ -1,0 +1,30 @@
+/* to connect css file to html file, go html  and "link" */
+
+h1{
+    color: navy;
+    font-size: 30px;
+}
+
+p {
+    color: navy;
+}
+
+img{
+    width: 180px;
+}
+
+h3{
+    color: darkorchid;
+}
+
+h3.barbacoa{
+    color: deeppink;
+}
+
+body{
+    background-attachment: fixed;
+    background-color: dimgray;
+    background-image: url(azb.jpg) ;
+    background-repeat:repeat;
+    background-size: 100px;
+}
